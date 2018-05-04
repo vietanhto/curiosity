@@ -1,0 +1,8 @@
+*.d
+*.kernel
+*.o
+.DS_Store
+*.iso
+isodir
+sysroot
+*.bin
